@@ -11,6 +11,7 @@ CLIDEHOOK is the execution engine for [CLIDE (CLI IDE)](OVERVIEW.md), an autonom
 - **Complete Autonomy** - Handles the entire development lifecycle from issue to merged PR
 - **Specialized Sub-Agents** - Dedicated agents for planning, coding, documenting, and testing
 - **GitHub-Native** - Communicates entirely through issues, PRs, and comments
+- **Video Integration** - Creates PRs with Playwright video demos and auto-play GIFs
 - **Self-Improving** - Learns from your codebase and adapts to your patterns
 - **Production-Ready** - Handles real-world development with proper error handling and recovery
 
@@ -34,6 +35,7 @@ GitHub → HLS → DECK → CLIDEHOOK
 - [**Webhook Events**](docs/WEBHOOK-EVENTS.md) - Detailed event reference
 - [**Deployment Guide**](docs/DEPLOYMENT-GUIDE.md) - Production deployment instructions
 - [**Prompt Templates**](docs/PROMPT-TEMPLATES.md) - AI agent prompt customization
+- [**PR Video Integration**](docs/PR-VIDEO-INTEGRATION.md) - Playwright video demos in PRs
 
 ## 🚦 Quick Start
 
